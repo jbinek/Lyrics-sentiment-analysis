@@ -1,6 +1,6 @@
 # Transformers network for emotion analysis of songs' lyrics
 
-The main objective of the project was to apply a selected technique or mechanism in a deep learning approach to solve a selected task. The topic we chose concerned song lyrics, specifically the use of transformers network for emotion analysis of songs' lyrics. The choice of such a topic and task was motivated by the fact that the use of transformers and the technologies related to NLP in general has become very popular. Latest developments in NLP algorithms such as token-free models indicate their dynamic development and make them a good investment for the future. 
+The main objective of the project was to apply a selected technique or mechanism in a deep learning approach to solve a selected task. The topic we chose concerned song lyrics, specifically the use of transformers network for emotion analysis of songs' lyrics. The choice of such a topic and task was motivated by the fact that the use of transformers and the technologies related to NLP in general has become very popular. Latest developments in NLP algorithms such as [token-free models](https://ruder.io/ml-highlights-2021/index.html#12tokenfreemodels) indicate their dynamic development and make them a good investment for the future. 
 
 A dataset containing 2751 song lyrics was used to complete the project. The lyrics were annotated using Valence and Arousal values of the words (based on Russell's model) in one of the 4 quadrants/categories:
 

@@ -11,5 +11,5 @@ A [dataset](https://github.com/francarranza/Emotion-recognition-from-lyrics/tree
 
 Fine tuning an already existing transformers network was done so that for a given lyrics it returns the emotion it brings. The auto-regressive language XLNet model was used to perform the multilabel text classification task.
 
-(more detailed descritpion in [dnn_report.pdf](https://github.com/jbinek/Lyrics-sentiment-analysis/blob/main/dnn_report.pdf) file)
+(more detailed description in [dnn_report.pdf](https://github.com/jbinek/Lyrics-sentiment-analysis/blob/main/dnn_report.pdf) file)
 
